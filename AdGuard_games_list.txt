@@ -11092,3 +11092,4 @@ sites.google.com/site/unblockurgames
 ||geforcenow.com^
 ||shadow.tech^
 ||nosdevoirs.fr^
+||now.gg^
